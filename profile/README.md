@@ -27,9 +27,13 @@ Proyecto académico desarrollado para la asignatura **Ingeniería de Software I*
 ## 🏫 Universidad
 
 <p align="center">
-  <span style="background-color:white; padding:15px; border-radius:10px; display:inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Escudo_de_la_Universidad_Nacional_de_Colombia_%282016%29.svg" width="180"/>
-  </span>
+  <table>
+    <tr>
+      <td align="center" bgcolor="white" style="padding:20px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Escudo_de_la_Universidad_Nacional_de_Colombia_%282016%29.svg" width="180"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
