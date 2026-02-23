@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=220&section=header&text=Pax-Lego&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4B2B&height=220&section=header&text=Pax-Lego&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,9 @@ Proyecto académico desarrollado para la asignatura **Ingeniería de Software I*
 ## 🏫 Universidad
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Escudo_de_la_Universidad_Nacional_de_Colombia_%282016%29.svg" width="180"/>
+  <span style="background-color:white; padding:15px; border-radius:10px; display:inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Escudo_de_la_Universidad_Nacional_de_Colombia_%282016%29.svg" width="180"/>
+  </span>
 </p>
 
 <p align="center">
