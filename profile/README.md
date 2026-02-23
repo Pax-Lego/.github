@@ -16,11 +16,6 @@ Proyecto académico de Ingeniería de Software I desarrollado bajo metodologías
   <img src="https://img.shields.io/badge/flujo-Kanban-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/curso-Ingeniería%20de%20Software%20I-red?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pax-lego-project/count.svg" />
-</p>
-
 ---
 
 # 🧩 Pax-Lego
@@ -32,11 +27,11 @@ Proyecto académico desarrollado para la asignatura **Ingeniería de Software I*
 ## 🏫 Universidad
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Universidad_Nacional_de_Colombia_-_Escudo.svg/512px-Universidad_Nacional_de_Colombia_-_Escudo.svg.png" width="180"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Escudo_de_la_Universidad_Nacional_de_Colombia_%282016%29.svg" width="180"/>
 </p>
 
 <p align="center">
-  <strong>Universidad Nacional de Colombia</strong>
+<b>Universidad Nacional de Colombia</b>
 </p>
 
 ---
@@ -88,23 +83,6 @@ Pax-Lego es un proyecto académico desarrollado en la asignatura Ingeniería de 
 
 🟡 **Fase actual:** Planeación inicial  
 🔧 **Tema del proyecto:** Por definir
-
----
-
-## 📊 Estadísticas del Repositorio
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Serramirezce&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serramirezce&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Actividad del Proyecto
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Serramirezce&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
