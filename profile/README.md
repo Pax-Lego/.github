@@ -18,7 +18,7 @@ Proyecto académico de Ingeniería de Software I desarrollado bajo metodologías
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Serramirezce&repo=Pax-Lego&label=Visitas&color=blueviolet&style=for-the-badge"/>
+  <img src="https://profile-counter.glitch.me/pax-lego-project/count.svg" />
 </p>
 
 ---
@@ -32,7 +32,7 @@ Proyecto académico desarrollado para la asignatura **Ingeniería de Software I*
 ## 🏫 Universidad
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Universidad_Nacional_de_Colombia_-_Escudo.svg" width="160"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Universidad_Nacional_de_Colombia_-_Escudo.svg/512px-Universidad_Nacional_de_Colombia_-_Escudo.svg.png" width="180"/>
 </p>
 
 <p align="center">
