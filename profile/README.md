@@ -44,7 +44,7 @@ Pax-Lego es un proyecto académico desarrollado en la asignatura Ingeniería de 
 
 ## 👥 Equipo de Desarrollo
 
-| Integrantes | GitGub | Correo Institucional |
+| Integrantes | GitHub | Correo Institucional |
 |------------ | ------------ | ------------ |
 | Sergio Andrés Ramírez Céspedes | [Serramirezce](https://github.com/Serramirezce) | serramirezce@unal.edu.co |
 | Juan Eduardo Garzon Rodriguez | [JuanEduardoGarzon](https://github.com/JuanEduardoGarzon) | jgarzonro@unal.edu.co |
