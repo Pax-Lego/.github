@@ -38,18 +38,18 @@ Proyecto académico desarrollado para la asignatura **Ingeniería de Software I*
 
 ## 📌 Descripción
 
-Pax-Lego es un proyecto académico desarrollado en la asignatura Ingeniería de Software I, enfocado en aplicar metodologías ágiles y buenas prácticas de desarrollo mediante la construcción colaborativa de una solución software.
+Pax-Lego es un proyecto académico desarrollado en la asignatura Ingeniería de Software I, enfocado en aplicar metodologías ágiles y buenas prácticas de desarrollo mediante la construcción colaborativa de una solución de software.
 
 ---
 
 ## 👥 Equipo de Desarrollo
 
-| Integrantes |
-|------------|
-| Sergio Andrés Ramírez Céspedes |
-| Juan Eduardo Garzon Rodriguez |
-| Julian Andres Melo Bustos |
-| Diego Phelipe Morales Aldana |
+| Integrantes | GitGub | Correo Institucional |
+|------------ | ------------ | ------------ |
+| Sergio Andrés Ramírez Céspedes | [Serramirezce](https://github.com/Serramirezce) | serramirezce@unal.edu.co |
+| Juan Eduardo Garzon Rodriguez | [JuanEduardoGarzon](https://github.com/JuanEduardoGarzon) | jgarzonro@unal.edu.co |
+| Julian Andres Melo Bustos | [JuliAnMelo](https://github.com/JuliAnMelo) | jumelob@unal.edu.co |
+| Diego Phelipe Morales Aldana | [dimoralesa](https://github.com/dimoralesa) | dimoralesa@unal.edu.co |
 
 ---
 
@@ -79,10 +79,18 @@ Pax-Lego es un proyecto académico desarrollado en la asignatura Ingeniería de 
 
 ---
 
-## 🚧 Estado del Proyecto
+## 🚧 Proyecto: Pax-Saporis (Nombre Provisional)
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Osias_Beert_-_Oysters_1610.jpg" width="400"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Vanlig_padda_-_Bufo_bufo.jpg" width="400"/>
+</p>
+Una herramienta para crear, compartir y descubrir recetas, planes de alimentación y nuevas experiencias deliciosas
+
+Si buscas recetas para los alimentos del día a día, para ocasiones especiales o para encontrar tu nueva comida favorita, ¡Pax-Saporis (Nombre Provisional) es para tí!
+
+---
 🟡 **Fase actual:** Planeación inicial  
-🔧 **Tema del proyecto:** Por definir
+
 
 ---
 
